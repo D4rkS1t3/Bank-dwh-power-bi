@@ -18,3 +18,5 @@ Zaimplementowany raport wizualizuje obroty o łącznej wartości **7,78 mln PLN*
 1. **Wolumen i wartość transakcji wg miast** - identyfikacja najbardziej aktywnych miast (m.in. Warszawa, Ryki).
 2. **Struktura segmentów klientów** - udział procentowy w obrotach banku (Premium: 27,93%, VIP: 33,73%, Standard: 38,34%).
 3. **Karta KPI & Filtry (Slicers)** - agregacja sumaryczna i dynamiczne filtrowanie danych według typu operacji.
+
+![raport](1.png)
